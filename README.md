@@ -6,7 +6,9 @@
 
 Monolith-এ application-এর প্রধান feature-গুলো সাধারণত একই project এবং deployable unit-এর মধ্যে থাকে। উদাহরণস্বরূপ, E-commerce application-এর Auth, Product, Order এবং Payment module একই NestJS application-এ থাকতে পারে।
 
-![Monolithic Architecture Diagram](https://imgur.com/JUJwcKV.png)
+>#### Monolithic Architecture Diagram
+<img width="646" height="632" alt="image" src="https://github.com/user-attachments/assets/0019b70e-3531-4d16-8cb9-9d986578a5ce" />
+
 
 ### সুবিধা
 - তৈরি করা ও বোঝা তুলনামূলক সহজ।
