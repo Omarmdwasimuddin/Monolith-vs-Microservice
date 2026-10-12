@@ -25,7 +25,9 @@ Monolith-এ application-এর প্রধান feature-গুলো সা�
 
 Microservices-এ application-কে একাধিক ছোট, স্বতন্ত্র service-এ ভাগ করা হয়। প্রতিটি service নির্দিষ্ট business responsibility পালন করে এবং আলাদাভাবে run, deploy ও scale করা যায়।
 
-![Microservices Architecture Diagram](https://imgur.com/J9dxlBT.png)
+>#### Microservice Architecture Diagram
+<img width="1109" height="680" alt="image" src="https://github.com/user-attachments/assets/6eab69b7-9a1c-403d-ac9c-8870658642b5" />
+
 
 Service-গুলোর মধ্যে HTTP/REST, TCP, gRPC অথবা message broker-এর মাধ্যমে communication হতে পারে। প্রতিটি service-এর নিজস্ব database থাকতে পারে; তবে database design business requirement অনুযায়ী ঠিক করতে হয়।
 
