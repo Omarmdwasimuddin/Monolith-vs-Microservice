@@ -90,7 +90,9 @@ apps/
 
 ## ৫. API Gateway ও Load Balancing
 
-![API Gateway and Load Balancing Diagram](images/api-gateway-load-balancing.svg)
+>#### API Gateway and Load Balancing Diagram
+<img width="1014" height="484" alt="image" src="https://github.com/user-attachments/assets/2656af92-d239-4408-b609-bb6cb1caa5dd" />
+
 
 ### API Gateway কী?
 
