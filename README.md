@@ -1,5 +1,4 @@
 ## Monolith vs Microservices Architecture
-## NestJS Developer-এর জন্য সহজ বাংলা গাইড
 
 > **মূল কথা:** Monolith হলো একটি deployable application-এর মধ্যে একাধিক module; Microservices হলো একাধিক স্বাধীন service মিলে তৈরি একটি system।
 
@@ -7,7 +6,7 @@
 
 Monolith-এ application-এর প্রধান feature-গুলো সাধারণত একই project এবং deployable unit-এর মধ্যে থাকে। উদাহরণস্বরূপ, E-commerce application-এর Auth, Product, Order এবং Payment module একই NestJS application-এ থাকতে পারে।
 
-![Monolithic Architecture Diagram](images/monolith-architecture.svg)
+![Monolithic Architecture Diagram](https://imgur.com/JUJwcKV.png)
 
 ### সুবিধা
 - তৈরি করা ও বোঝা তুলনামূলক সহজ।
